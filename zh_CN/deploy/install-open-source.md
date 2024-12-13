@@ -16,6 +16,8 @@
 
 使用官方 Docker 镜像快速安装和运行 EMQX，并使用 Docker Compose 实现集群搭建。
 
+**[在 宝塔面板 上安装](./install-btpanel-ce.md)**
+
 **[在 Debian 上安装](./install-debian-ce.md)**
 
 在 Debian 系统中下载 EMQX并通过 Apt 源或下载包安装。
